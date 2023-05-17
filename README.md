@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dilshan Ahmed
 - 👀 I’m interested in Web and App development
-- 🌱 I’m currently learning Flutter for developing cross platform supporting apps
+- 🌱 I’m currently learning more advance technologies of web development
 
 - 📫 Mail me to collaborate , dilshaneffendi1123@gmail.com
 
