@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dilshan Ahmed
 - 👀 I’m interested in Web and App development
-- 🌱 I’m currently learning React js
+- 🌱 I’m currently learning Inertia js
 
 - 📫 Mail me to collaborate, dilshanahmed2025@gmail.com
 
